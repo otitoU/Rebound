@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7483B18-0B65-457F-B1F1-C5D7E992A8AA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "857B762B-A43F-46F7-8AE9-53A0275C17D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rebound/Screens/Student Screens/StudentResourcesScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "857B762B-A43F-46F7-8AE9-53A0275C17D0 - ba8ba99892459786"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationView&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.TupleView&lt;(SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.WellnessResourcesList&gt;, SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Text)&gt;&gt;)&gt;&gt;)&gt;&gt;&gt;&gt;, SwiftUI.Spacer)&gt; in Rebound.StudentResourcesScreen.body.getter : some"
+                  moduleName = "Rebound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ot/Desktop/Rebound/Rebound/Screens/Student%20Screens/StudentResourcesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "857B762B-A43F-46F7-8AE9-53A0275C17D0 - 41e423b10e8bd292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.TupleView&lt;(SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.WellnessResourcesList&gt;, SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Text)&gt;&gt;)&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationView&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.TupleView&lt;(SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.WellnessResourcesList&gt;, SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Text)&gt;&gt;)&gt;&gt;)&gt;&gt;&gt;&gt;, SwiftUI.Spacer)&gt; in Rebound.StudentResourcesScreen.body.getter : some"
+                  moduleName = "Rebound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ot/Desktop/Rebound/Rebound/Screens/Student%20Screens/StudentResourcesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "857B762B-A43F-46F7-8AE9-53A0275C17D0 - b51e665ecbb2cc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationView&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.TupleView&lt;(SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.WellnessResourcesList&gt;, SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.LearningResourcesList&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Text)&gt;&gt;)&gt;&gt;)&gt;&gt;&gt;&gt;, SwiftUI.Spacer)&gt; in Rebound.StudentResourcesScreen.body.getter : some"
+                  moduleName = "Rebound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ot/Desktop/Rebound/Rebound/Screens/Student%20Screens/StudentResourcesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "857B762B-A43F-46F7-8AE9-53A0275C17D0 - 40df734bf7e8121c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.TupleView&lt;(SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.WellnessResourcesList&gt;, SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.LearningResourcesList&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Text)&gt;&gt;)&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationView&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.TupleView&lt;(SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.WellnessResourcesList&gt;, SwiftUI.NavigationLink&lt;Rebound.ResourceBlob, Rebound.LearningResourcesList&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Text)&gt;&gt;)&gt;&gt;)&gt;&gt;&gt;&gt;, SwiftUI.Spacer)&gt; in Rebound.StudentResourcesScreen.body.getter : some"
+                  moduleName = "Rebound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ot/Desktop/Rebound/Rebound/Screens/Student%20Screens/StudentResourcesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
